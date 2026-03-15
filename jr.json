@@ -1,19 +1,19 @@
 {
-    "version": "0.8.6",
+    "version": "0.8.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sofq/jira-cli/releases/download/v0.8.6/jira-cli_0.8.6_windows_amd64.zip",
+            "url": "https://github.com/sofq/jira-cli/releases/download/v0.8.7/jira-cli_0.8.7_windows_amd64.zip",
             "bin": [
                 "jr.exe"
             ],
-            "hash": "b97a5b9bc255c0b6ce12fe5d452315d68f9eeff6002b1f3b9abcb384aab2c989"
+            "hash": "e1c6a70e629915e3d4d06920a52fddaa67fece89e171bbc4951905429f0d519e"
         },
         "arm64": {
-            "url": "https://github.com/sofq/jira-cli/releases/download/v0.8.6/jira-cli_0.8.6_windows_arm64.zip",
+            "url": "https://github.com/sofq/jira-cli/releases/download/v0.8.7/jira-cli_0.8.7_windows_arm64.zip",
             "bin": [
                 "jr.exe"
             ],
-            "hash": "b0e846d4e2e2536521d5c245d3662452baac312a403eea8e1cb7086881815ed8"
+            "hash": "5fc00cba86aa94ecfadec9e1ec4e36573a73e61027f2d5b0c47026dacfdb0484"
         }
     },
     "homepage": "https://github.com/sofq/jira-cli",
