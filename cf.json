@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.1.0/confluence-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "cf.exe"
+            ],
+            "hash": "78c1494ba08ccfb8047df65a478642c7368ff92be7775e8668d37d81db6bbc2f"
+        },
+        "arm64": {
+            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.1.0/confluence-cli_0.1.0_windows_arm64.zip",
+            "bin": [
+                "cf.exe"
+            ],
+            "hash": "3426d49d086d452a6cec53a84fa219f421776f4e0c0344a578b527584e89a9c6"
+        }
+    },
+    "homepage": "https://github.com/sofq/confluence-cli",
+    "license": "Apache-2.0",
+    "description": "Agent-friendly Confluence CLI with structured JSON output and jq filtering"
+}
