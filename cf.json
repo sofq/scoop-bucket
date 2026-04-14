@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.2.1/confluence-cli_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.2.2/confluence-cli_0.2.2_windows_amd64.zip",
             "bin": [
                 "cf.exe"
             ],
-            "hash": "6f854786a16559c4ca010e30a4a2dcd0fe95e2eaf172f42963add093a12ca04c"
+            "hash": "ab9c6eba0e62617b0f2f59360baa44d0a2d150989e44f8f4b7c32ec6142f6bff"
         },
         "arm64": {
-            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.2.1/confluence-cli_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/sofq/confluence-cli/releases/download/v0.2.2/confluence-cli_0.2.2_windows_arm64.zip",
             "bin": [
                 "cf.exe"
             ],
-            "hash": "9a97874a87c78f588d9169fbb7e00d2e3a3ef814a2442df555a6d421980e31f4"
+            "hash": "7b1fbff5078b13642ac938490267ed7be3971e8f59428d6ae5311220e4988622"
         }
     },
     "homepage": "https://github.com/sofq/confluence-cli",
